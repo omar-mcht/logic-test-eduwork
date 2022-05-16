@@ -4,7 +4,7 @@ $input = array(1, 3, 4, 7, 8, 10, 12, 15, 19, 20);
 $low = 3;
 $high = 18;
 
-echo "Nilai Iput Array = [";
+echo "Nilai Input Array = [";
 foreach ($input as $key => $value) {
     echo $value . " ";
 }
